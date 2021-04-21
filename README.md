@@ -1,6 +1,6 @@
 # B-Tree
 
-[![CMake](https://github.com/Algorithms-and-Data-Structures-2021/semester-work-b-tree-006/actions/workflows/cmake.yml/badge.svg)](https://github.com/Sungatullin/semester-work-b-tree-006/actions/workflows/cmake.yml)
+[![CMake](https://github.com/Sungatullin/semester-work-b-tree-006/actions/workflows/cmake.yml/badge.svg)](https://github.com/Sungatullin/semester-work-b-tree-006/actions/workflows/cmake.yml)
 
 
 - Структура данных - **B-tree**
