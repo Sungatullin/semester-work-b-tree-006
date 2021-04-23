@@ -67,6 +67,7 @@ _Постарайтесь написать инструкцию так, чтоб
   ```shell
   git clone https://github.com/Algorithms-and-Data-Structures-2021/semester-work-b-tree-006.git
   ```
+  ![picture](img/git_clone.png)
 - 2 способ:
   - Откройте проект в [CLion](https://www.jetbrains.com/ru-ru/clion/), используя URL:
   ```shell
