@@ -78,14 +78,17 @@
 
 - Процесс генерации тестовых данных:
   - откройте проект в [CLion](https://www.jetbrains.com/ru-ru/clion/)
-  ![](img/path_to_project2.png | width=250)
-  <img src="https://camo.githubusercontent.com/..." data-canonical-src="img/path_to_project2.png" width="200" height="400" />
+  ![](img/path_to_project2.png)
+  
   - определите путь до проекта
   ![](img/path_to_project.png)
+  
   - пропишите максимальное значение элементов(по желанию)
   ![](img/max_rand.png)
+  
   - запустите **generate_csv_dataset.cpp**
   ![](img/run_generater.png)
+  
   - подождите пока сгенерируются все данные
   ![](img/finish_generation.png)
 
