@@ -55,10 +55,6 @@
 
 ## Сборка и запуск
 
-_Инструкция по сборке проекта, генерации тестовых данных, запуска контрольных тестов и примеров работы._
-
-_Постарайтесь написать инструкцию так, чтобы незнакомый с проектом человек смог самостоятельно всё запустить._
-
 ### Пример (Windows)
 
 #### Сборка проекта
@@ -67,12 +63,14 @@ _Постарайтесь написать инструкцию так, чтоб
   ```shell
   git clone https://github.com/Algorithms-and-Data-Structures-2021/semester-work-b-tree-006.git
   ```
-  ![picture](img/git_clone.png)
+  ![](img/git_clone.png)
 - 2 способ:
   - Откройте проект в [CLion](https://www.jetbrains.com/ru-ru/clion/), используя URL:
   ```shell
   https://github.com/Algorithms-and-Data-Structures-2021/semester-work-b-tree-006.git
   ```
+  ![](img/path_to_project2.png)
+  
 #### Генерация тестовых данных
 
 Генерация тестового набора данных в
@@ -80,10 +78,15 @@ _Постарайтесь написать инструкцию так, чтоб
 
 - Процесс генерации тестовых данных:
   - откройте проект в [CLion](https://www.jetbrains.com/ru-ru/clion/)
+  ![](img/path_to_project2.png)
   - определите путь до проекта
+  ![](img/path_to_project.png)
   - пропишите максимальное значение элементов(по желанию)
+  ![](img/max_rand.png)
   - запустите **generate_csv_dataset.cpp**
+  ![](img/run_generater.png)
   - подождите пока сгенерируются все данные
+  ![](img/finish_generation.png)
 
 Тестовые данные представлены в TXT формате (см.
 [`dataset/data/dataset-example.txt`](dataset/data/dataset-example.txt)):
